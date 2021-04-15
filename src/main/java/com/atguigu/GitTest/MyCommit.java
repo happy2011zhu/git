@@ -24,5 +24,8 @@ public class MyCommit {
                 "主人何为言少钱，径须沽取对君酌。\n" +
                 "五花马、千金裘，呼儿将出换美酒，与尔同销万古愁");
         System.out.println(" I'm hot-fix");
+        
+        
+         System.out.println(" github........");
     }
 }
